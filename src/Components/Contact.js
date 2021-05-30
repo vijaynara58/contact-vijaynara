@@ -110,9 +110,9 @@ const Contact = ({ data }) => {
             </fieldset>
           </form>
 
-          <div id="message-warning"> Error boy</div>
+          <div id="message-warning">There was an error. Please try again.</div>
           <div id="message-success">
-            <i className="fa fa-check"></i>Your message was sent, thank you!
+            <i className="fa fa-check"></i>Your message was sent, I will reach out to you soon!
             <br />
           </div>
         </div>

@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Vijay Nara",
+    "occupation": "Technical consultant",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Vijay! . An Indian who has good knowledge of software development but a technical consultant by profession, astrophile by interest and biophilic in life. I have always struggled to answer when asked for what qualities I have. But one day, I realized that I am observing(strong), adjustable to the environment so flexible, good at communication(have studied English literature a lot), thoughtless when intended and deep thinker and focused when required, the nature attracts me(cannot ignore any movement around me), loves everyone in the world(have done things for strangers happiness), Quick thinker(very quick actually), good performer at sports(highly motivated), loves science(logic is something that my thoughts crave for), creative also(test me). I also write blogs related to anything that can be given a thought. I acknowledge that all information here is verified by me carefully.",
+    "contactmessage": "Get in touch with me if you are looking for a quality support!",
+    "email": "vijaynara58@gmail.com",
+    "phone": "+1 438-836-4256",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "8650 Rue Jean Brillon",
+      "city": "Montreal",
+      "state": "Quebec",
+      "zip": "H8N 2G3"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://portfolio-ee3aa.web.app/",
+    "resumedownload": "https://vijaynara58.github.io",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCZ-cpOFhMwWA0U_yIa1piDg",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/vijay.nara.92/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/vijay-nara-306316104/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/vijaynara.ca/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/vijaynara58",
         "className": "fa fa-github"
       }
     ]
@@ -48,27 +48,27 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "CDE College",
+        "degree": "Diploma, Programmer Analyst and Web Development",
+        "graduated": "June 2021",
+        "description": "About to graduate this week with Good Marks"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "CGI",
+        "title": "Technical Support",
+        "years": "Sep 2020 - Present",
+        "description": "Provide Technical Assistance related to Servers, Outlook, Active Directory"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "60%"
       },
       {
-        "name": "Python",
+        "name": "C#",
         "level": "85%"
       },
       {
@@ -77,7 +77,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "90%"
       },
       {
         "name": "Web Development",
@@ -88,34 +88,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "CDE College Internship Project",
+        "category": "Internship",
+        "image": "internship.png",
+        "url": "https://cde-internproject.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Animated buttons (CSS)",
+        "category": "CSS Styling",
+        "image": "animatedbuttons.png",
+        "url": "https://vijaynara58.github.io/AnimatedButtons/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Tiktok Clone (React JS)",
+        "category": "AstraDB",
+        "image": "tiktok.png",
+        "url": "https://wizardly-clarke-011761.netlify.app/#/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Vijay is absolutely excellent, his depth of knowledge & his mentorship is remarkable",
+        "user": "Vikas Nara"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Vijay has been AWESOME, he makes learning React so easy and approachable by doing Projects",
+        "user": "Ritu Nara"
       }
     ]
   }
