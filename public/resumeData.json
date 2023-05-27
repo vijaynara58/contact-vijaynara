@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Vijay Nara",
-    "occupation": "Technical consultant",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "Desktop Administrator",
+    "description": "Working at NRG Energy",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Vijay! . An Indian who has good knowledge of software development but a technical consultant by profession, astrophile by interest and biophilic in life. I have always struggled to answer when asked for what qualities I have. But one day, I realized that I am observing(strong), adjustable to the environment so flexible, good at communication(have studied English literature a lot), thoughtless when intended and deep thinker and focused when required, the nature attracts me(cannot ignore any movement around me), loves everyone in the world(have done things for strangers happiness), Quick thinker(very quick actually), good performer at sports(highly motivated), loves science(logic is something that my thoughts crave for), creative also(test me). I also write blogs related to anything that can be given a thought. I acknowledge that all information here is verified by me carefully.",
-    "contactmessage": "Get in touch with me if you are looking for a quality support!",
+    "bio": "Hi there! I am a skilled Desktop Administrator with an experience of more than 4 years in IT Industry in the field of Application development, Desktop Administration and Service Desk(technical support). I have good command over technical, vocal and logical requirements of IT Industry. I have exerpience working with or for multiple organizations particularly in the following fields:- Full Stack Development (C#, front end web development(HTML, CSS, php, JavaScript, React, React Native, Expo, Bootstrap), backend database management, Oracle Database Management, SQL, mySQL, fetching data via API(REST, GraphQL), Desktop Administrator and technical support (Windows 10, Enrolling Device in Endpoint Manager, imaging computers, Active Directory Management, Virtual Machines Management, Office 365 Products and licenses, Azure Active Directory, Adobe License Mangement, Application Management, Hardware and Software supports, Remote Control, Service-Now, Airwatch, iPhones, MacBooks, Androids, BYOD, tier-2, printers, etc.)",
+    "contactmessage": "Get in touch with me if you are looking for quality support!",
     "email": "vijaynara58@gmail.com",
-    "phone": "+1 438-836-4256",
+    "phone": "+1 825-438-3528",
     "address": {
-      "street": "8650 Rue Jean Brillon",
-      "city": "Montreal",
-      "state": "Quebec",
-      "zip": "H8N 2G3"
+      "street": "618 5th Ave SW",
+      "city": "Calgary",
+      "state": "Alberta",
+      "zip": "T2P 0M7"
     },
     "website": "https://portfolio-ee3aa.web.app/",
     "resumedownload": "https://vijaynara58.github.io",
@@ -34,7 +34,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/vijaynara.ca/",
+        "url": "https://www.instagram.com/vijaynara_/",
         "className": "fa fa-instagram"
       },
       {
@@ -51,25 +51,37 @@
         "school": "CDE College",
         "degree": "Diploma, Programmer Analyst and Web Development",
         "graduated": "June 2021",
-        "description": "About to graduate this week with Good Marks"
+        "description": "Graduated with First Class Division"
       }
     ],
     "work": [
       {
+        "company": "NRG Energy/Direct Energy",
+        "title": "Desktop Administrator",
+        "years": "Oct 2022 - present",
+        "description": "- Setup Computer Desks with equipment, provide technical support related to software, hardware, ticket management, vendor management, Shipment and Delivery of Equipment, etc."
+      },
+      {
+        "company": "WBM Technologies",
+        "title": "Technical Support",
+        "years": "Aug 2021 - Sep 2022",
+        "description": "- Provide Technical Support to multiple Service Desks regarding Application requests, service-now ticket management."
+      },
+      {
         "company": "CGI",
         "title": "Technical Support",
-        "years": "Sep 2020 - Present",
-        "description": "Provide Technical Assistance related to Servers, Outlook, Active Directory"
+        "years": "Sep 2020 - Sep 2021",
+        "description": "- Provide quality customer support for all incoming contacts (via call, chat, email or web ticket) for IT-related issues or requests"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "60%"
+        "level": "90%"
       },
       {
         "name": "C#",
-        "level": "85%"
+        "level": "60%"
       },
       {
         "name": "Git",
@@ -100,10 +112,10 @@
         "url": "https://vijaynara58.github.io/AnimatedButtons/"
       },
       {
-        "title": "Tiktok Clone (React JS)",
-        "category": "AstraDB",
-        "image": "tiktok.png",
-        "url": "https://wizardly-clarke-011761.netlify.app/#/"
+        "title": "Resume",
+        "category": "ront-end skills",
+        "image": "Resume.png",
+        "url": "https://vijaynara58.github.io/"
       }
     ]
   },
