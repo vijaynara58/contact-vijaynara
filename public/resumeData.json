@@ -52,6 +52,12 @@
         "degree": "Diploma, Programmer Analyst and Web Development",
         "graduated": "June 2021",
         "description": "Graduated with First Class Division"
+      },
+      {
+        "school": "Hindu College",
+        "degree": "4 year degree, Bachelor in Physics, Mathematics and Electronics",
+        "graduated": "May 2015",
+        "description": "Graduated with First Class Division"
       }
     ],
     "work": [
@@ -129,11 +135,11 @@
     "testimonials": [
       {
         "text": "Vijay is absolutely excellent, his depth of knowledge & his mentorship is remarkable",
-        "user": "Vikas Nara"
+        "user": "David Armstrong"
       },
       {
         "text": "Learning with Vijay has been AWESOME, he makes learning React so easy and approachable by doing Projects",
-        "user": "Ritu Nara"
+        "user": "John Marshall"
       }
     ]
   }
